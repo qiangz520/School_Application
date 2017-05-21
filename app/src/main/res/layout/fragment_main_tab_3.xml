@@ -9,7 +9,7 @@
 
 	<LinearLayout style="@style/single_layout"
 		android:layout_height="200dp"
-		android:background="@drawable/background_settingpage_avater"
+		android:background="@drawable/ic_backgroud_picture"
 		android:layout_marginLeft="8dp"
 		android:layout_marginRight="8dp"
 		android:gravity="center"
